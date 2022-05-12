@@ -1,2 +1,4 @@
 # DSP-439-Exam-4
 In this repository you can find my script files which include the python code for this assignment. In the script file, the code includes four functions. One function that counts possible kmers from a string of length k and another function looking at the observed kmers from a string of length k. Both of these functions have k and the string as the arguments for the function. The third function creates a pandas dataframe which contains all possible k and the observed and expected kmers. This dataframe will match the one seen in the assigment instructions. The final function depicts how to calculate linguistic complexity when looking at kmers. The linguistic complexity is the ratio of the. number of substrings present in the string of a word. 
+
+You can also find the output of the py file in the juypter notebook file. 
